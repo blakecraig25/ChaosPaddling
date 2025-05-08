@@ -45,7 +45,7 @@ The final result is a clear, visual overlay on the original image or video — a
 
 **Output Image with Imposed Route**  
 *The route traced from in red*  
-![Output](Image_Results/13_image_result.jpg')
+![Output](Image_Results/13_image_result.jpg)
 
 **Sample Output Video**  
 Each frame of the video includes the computed navigation path.  
