@@ -49,21 +49,7 @@ The final result is a clear, visual overlay on the original image or video — a
 
 **Sample Output Video**  
 Each frame of the video includes the computed navigation path.  
-[Watch Video Output](test_videos/04c_augmented_frames_only.mp4)
-
----
-
-### Running the Code
-
-Process a video:
-```bash
-python generate_route_video.py --input path/to/your_video.mp4 --output path/to/output_video.mp4
-```
-
-Process a single image:
-```bash
-python generate_route_image.py --input path/to/image.jpg --output path/to/output.jpg
-```
+<video src="test_videos/04c_augmented_frames_only.mp4" width="320" height="240" controls></video>
 
 ---
 
