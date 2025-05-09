@@ -1,4 +1,4 @@
-# Chaos Paddling 🛶
+# [Chaos Paddling 🛶](https://github.com/blakecraig25/ChaosPaddling)
 
 ## Whitewater Navigation Path Detection
 
