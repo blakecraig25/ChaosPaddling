@@ -51,6 +51,10 @@ The final result is a clear, visual overlay on the original image or video — a
 Each frame of the video includes the computed navigation path.  
 <video src="test_videos/04c_augmented_frames_only.mp4" width="320" height="240" controls></video>
 
+The video is too large, so going to test_videos/04c_augmented_frames_only.mp4 and downloading it will make the video available.
+
+There are also more results within the [Image_Results](Image_Results) folder.
+
 ---
 
 ### File Structure
@@ -63,19 +67,6 @@ whitewater_navigation/
 ├── examples/                     # Input/output media
 ├── utils/                        # Helper functions
 └── README.md
-```
-
----
-
-### Requirements
-
-- Python 3.8+
-- `numpy`, `opencv-python`, `scikit-image`, `Pillow`, `tqdm`
-
-Install them with:
-
-```bash
-pip install -r requirements.txt
 ```
 
 ---
